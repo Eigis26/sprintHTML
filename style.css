@@ -17,14 +17,6 @@
 
 body {
     background-image: url(img/bg.jpg);
-    /* background-color: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: contain; */
-    /* height:100vh; */
-    /* width: 100%;
-    height: 100%; */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
